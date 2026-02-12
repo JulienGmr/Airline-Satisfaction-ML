@@ -32,6 +32,6 @@ J'ai construit une analyse en 4 étapes :
 * **Le Prix avant tout :** Le rapport "Qualité/Prix" est le critère le plus important pour les passagers, loin devant le confort du siège.
 * **Fracture Géographique :** Les vols vers l'Asie sont excellents, tandis que les vols vers l'Amérique du Nord concentrent les plaintes.
 
-##  Comment lancer le projet
+
 
 
