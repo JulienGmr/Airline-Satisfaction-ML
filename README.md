@@ -25,8 +25,7 @@ J'ai construit une analyse en 4 étapes :
 2.  **Segmentation (Clustering) :** Regroupement automatique des passagers par profil (ex: "Les sensibles au prix").
 3.  **Analyse de Texte (NLP) :** L'ordinateur lit les avis pour comprendre les sujets (Retards, Repas, Personnel...).
 4.  **Prédiction & Carte :**
-    * Un modèle capable de deviner la recommandation avec **89.6% de précision**.
-    * Une carte interactive des lignes aériennes (Vert = Bien, Rouge = Problème).
+
 
 ##  Résultats Clés
 
